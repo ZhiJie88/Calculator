@@ -1,2 +1,2 @@
 # Calculator
- Rudementary Calculator, will only be able to compute two value inputs
+ Rudementary calculator, will only be able to compute two value inputs
